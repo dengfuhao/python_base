@@ -1,1 +1,3 @@
-# python_base
+
+### B站整理的部分代码及文档，新文档后续补上...
+## [全套Python教程-750集完整版（基础+高级+项目）](https://www.bilibili.com/video/BV1HU4y1n7CP?spm_id_from=333.999.0.0)
